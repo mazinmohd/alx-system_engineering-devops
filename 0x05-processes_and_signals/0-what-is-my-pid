@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script show the pid
+
+echo $$

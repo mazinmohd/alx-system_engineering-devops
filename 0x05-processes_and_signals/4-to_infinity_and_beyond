@@ -1,0 +1,7 @@
+#!/usr/bin/enb bash
+# script displays a ward
+
+while true; do
+	echo "To infinity and beyond"
+	sleep 2
+done
